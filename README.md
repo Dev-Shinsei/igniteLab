@@ -17,7 +17,7 @@ IgniteLab é um projeto feito na semana Ignite Lab 02 para aprofundar as habilid
 </div>
  
   
-## 🔗 Link da aplicação no ar: **Em Breve**
+## 🔗 Link da aplicação no ar: https://cg-ignite-lab.vercel.app/
   
 ## :rocket: Tecnologias
 
