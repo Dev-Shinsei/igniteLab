@@ -43,8 +43,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e técnicas:
 
 ✔️ VimeJS
 
-
 ## :foot: Próximos Passos
+
+❤️ Ter uma Welcome Page
+
+❤️ Criar uma Animation de "Carregando"
 
 ❤️ Corrigir Bugs relacionados ao carregamento dos vídeos
 
@@ -53,7 +56,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e técnicas:
 ❤️ Bloquear o clique em aulas que ainda serão lançadas
 
 ❤️ Tornar esse projeto Open Source e voltado à comunidade de Jogos.
-
 
 <a href="https://github.com/Dev-Shinsei">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61604214?v=4" width="100px;" alt="Image de Carlos Gomes utilizando mascara facial e oculos"/>
