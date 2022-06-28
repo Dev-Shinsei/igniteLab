@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e técnicas:
 
 ❤️ Bloquear o clique em aulas que ainda serão lançadas
 
-❤️ Tornar esse projeto opensource voltada à comunidade de Jogos.
+❤️ Tornar esse projeto Open Source e voltado à comunidade de Jogos.
 
 
 <a href="https://github.com/Dev-Shinsei">
